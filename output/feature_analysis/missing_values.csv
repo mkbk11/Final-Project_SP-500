@@ -1,0 +1,15 @@
+﻿,Train,Validation,Test,Total
+return_1d,1,0,0,1
+return_5d,5,0,0,5
+return_20d,20,0,0,20
+volatility_20d,20,0,0,20
+intraday_return,0,0,0,0
+intraday_range,0,0,0,0
+close_vs_sma20,19,0,0,19
+sma5_vs_sma20,19,0,0,19
+overnight_return,1,0,0,1
+close_location,0,0,0,0
+volatility_5d,5,0,0,5
+avg_intraday_range_20d,19,0,0,19
+volume_change_1d,1,2,0,3
+volume_vs_prev20,20,21,0,41

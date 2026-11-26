@@ -1,0 +1,4 @@
+﻿Feature A,Feature B,Abs Correlation
+return_1d,intraday_return,0.975462092927729
+volatility_20d,avg_intraday_range_20d,0.9649322317133875
+close_vs_sma20,sma5_vs_sma20,0.8914614543737942

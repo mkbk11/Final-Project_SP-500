@@ -1,0 +1,9 @@
+{
+  "rows": 7547,
+  "missing_sessions": [],
+  "extra_dates": [],
+  "duplicate_rows": 0,
+  "bad_price_rows": 0,
+  "bad_range_rows": 0,
+  "nonpositive_volume_rows": 1
+}
